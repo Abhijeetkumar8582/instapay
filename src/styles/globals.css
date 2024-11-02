@@ -89,7 +89,7 @@ body {
   color: rgb(var(--foreground-rgb));
   width: 100vw; /* Use vw (viewport width) instead of vh */
   height: 100vh; /* Set the height to 100vh (viewport height) */
-  background: url('/N.png') center/cover; /* Set background image with cover option */
+  background: url('/ss.png') center/cover; /* Set background image with cover option */
 }
 
 

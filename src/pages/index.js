@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Novigo</title>
+      <title>InstaPay</title>
     </Head>
       <div>
         <h4></h4>
